@@ -1,4 +1,11 @@
 Đến cả con khỉ cũng hiểu được lệnh Git
 -add: Đăng ký thay đổi trong index 
+
+-commit:lưu lại trạng thái của index 
+
 -pull:Lấy nội dung của repository 
+
 -hell0 tutorial2 
+
+
+
